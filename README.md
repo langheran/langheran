@@ -1,4 +1,4 @@
-# Nisim Hurst
+# Nisim Hurst Tarrab
 
 ![](https://komarev.com/ghpvc/?username=langheran)
 
@@ -10,5 +10,5 @@ Computer science graduate with more than 10 years of experience in C# programmin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langheran&layout=compact)](https://github.com/langheran/langheran)
 
-<!-- [![Nisim Hurst's github stats](https://github-readme-stats.vercel.app/api/pin?username=langheran&repo=github-readme-stats&show_icons=true)](https://github.com/langheran/github-readme-stats) -->
+<!-- [![Nisim Hurst Tarrab's github stats](https://github-readme-stats.vercel.app/api/pin?username=langheran&repo=github-readme-stats&show_icons=true)](https://github.com/langheran/github-readme-stats) -->
 
